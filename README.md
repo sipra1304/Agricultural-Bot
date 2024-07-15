@@ -58,6 +58,7 @@ You can also host Saarthi on Streamlit Cloud to make it accessible to others. He
 
 ### 📷 Sample Screenshots
 Here are some screenshots of the Saarthi interface:
+![Screenshot 2024-07-15 121413](https://github.com/user-attachments/assets/17f2141a-4c4a-4e1f-b2aa-dfc17cc74615)
 
 ![Screenshot 1](./mnt/data/Screenshot%202024-07-15%20121413.png)
 ![Screenshot 2](./mnt/data/Screenshot%202024-07-15%20123811.png)
