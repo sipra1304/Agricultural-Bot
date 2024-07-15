@@ -1,5 +1,5 @@
 import os
-
+import streamlit as st
 import google.generativeai as genai
 
 genai.configure(api_key=os.environ["Google_API_KEY"])
@@ -47,6 +47,16 @@ chat_session = model.start_chat(
   ]
 )
 
-response = chat_session.send_message("what are the schemes available for education?")
+# Streamlit UI
+st.set_page_config(page_title="SAARTHI: Your Agricultural Expert", page_icon=":seedling:", layout="wide")
 
-print(response.text)
+st.title("🌾 SAARTHI: Your Agriculture Expert")
+st.write("Ask any question about farming practices, crop management, market trends, and government schemes.")
+
+user_input = st.text_input("Enter your question here:")
+if st.button("Ask SAARTHI 🤖"):
+    if user_input:
+        response = chat_session.send_message(user_input)
+        st.write(response.text)
+    else:
+        st.write("Please enter a question.")
