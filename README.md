@@ -58,9 +58,11 @@ You can also host Saarthi on Streamlit Cloud to make it accessible to others. He
 
 ### 📷 Sample Screenshots
 Here are some screenshots of the Saarthi interface:
-![Screenshot 2024-07-15 121413](https://github.com/user-attachment
+
 ![Screenshot 2024-07-15 124047](https://github.com/user-attachments/assets/ea8a8333-5832-453c-9ee5-f55b8180d533)
 
+
+![Screenshot 2024-07-15 123811](https://github.com/user-attachments/assets/9916a730-84e6-4f8d-baa8-4470cc9c40f5)
 
 ### 📚 Example Interaction
 - **User:** "What are the best crops that I can grow with minimum investment in Odisha state of India?"
