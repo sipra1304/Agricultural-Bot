@@ -68,8 +68,8 @@ Here are some screenshots of the Saarthi interface:
 - **User:** "What are the best crops that I can grow with minimum investment in Odisha state of India?"
 - **Saarthi:** "To give you the best recommendations, I need some more information: What's your location in Odisha? What is your access to irrigation? What's your farm size? Based on this information, I can suggest some low-investment crops that are well-suited to Odisha..."
 
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+## 🤝 Contributors
+@sipra1304 @beura-chirantan
 
 ## 📄 License
 This project is licensed under the MIT License.
