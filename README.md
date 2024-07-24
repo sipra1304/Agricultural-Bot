@@ -69,7 +69,7 @@ Here are some screenshots of the Saarthi interface:
 - **Saarthi:** "To give you the best recommendations, I need some more information: What's your location in Odisha? What is your access to irrigation? What's your farm size? Based on this information, I can suggest some low-investment crops that are well-suited to Odisha..."
 
 ## 🤝 Contributors
-@sipra1304 @beura-chirantan
+![@sipra1304](https://github.com/sipra1304) ![@beura-chirantan](https://github.com/beura-chirantan)
 
 ## 📄 License
 This project is licensed under the MIT License.
