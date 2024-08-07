@@ -1,5 +1,7 @@
 # 🌾 Saarthi - AgroBot 🤖
 
+**[Chat with Saarthi](https://huggingface.co/spaces/Sipra1304/AgrobotSaarthi)**
+
 Saarthi is an AI-powered agricultural chatbot designed to provide comprehensive and actionable advice to farmers. Leveraging Google Generative AI, Saarthi can answer a variety of questions related to farming practices, crop management, market trends, and government schemes.
 
 ## ✨ Features
